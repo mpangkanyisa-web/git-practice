@@ -2,3 +2,4 @@ Hello Git
 Learning Git is like playing a video game.
 This line was added from the GitHub website!
 Local git update to push
+VS Code sentence on editor
