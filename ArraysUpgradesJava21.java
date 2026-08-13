@@ -11,7 +11,7 @@ public class ArraysUpgradesJava21 {
 
 
     public void printFirstAndLast21() {
-        System.out.println(numbers.getFirst());
-        System.out.println(numbers.getLast());
+        IO.println(numbers.getFirst());
+        IO.println(numbers.getLast());
         }
 }
