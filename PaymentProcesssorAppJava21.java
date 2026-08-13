@@ -1,8 +1,8 @@
 public class PaymentProcesssorAppJava21 {
 
     //only for the purpose of instanceof...that's why we used the generic Object, so we can cast it
-
     //For Java 21 you can just write void main() {...}, and not wrap the code is a class, and not write public static void main...
+    
     public static void main(String[] args) {
 
         PaymentProcesssorAppJava21 ppAppJava21 = new PaymentProcesssorAppJava21();
@@ -34,12 +34,12 @@ public class PaymentProcesssorAppJava21 {
 
 //JAVA 21 REWRITES THIS PART USING THE Pattern Matching with a Switch Expression!
  // It checks the type, creates the remote, and executes the action in one shot.
-    public void processPayment(Object payment){
+    void processPayment(Object payment){
     switch (payment) {
         case CreditCard cc -> cc.chargeCard();
         case PayPal pp -> pp.loginAndPay();
-        case null -> println("Error: Payment payload is empty!");
-        default -> println("Error: Unknown payment type!");
+        case null -> System.out.println("Error: Payment payload is empty!");
+        default -> System.out.println("Error: Unknown payment type!");
     }
  } 
 
@@ -62,11 +62,12 @@ public class PaymentProcesssorAppJava21 {
 
     record CreditCard() {
         void chargeCard() {
-            println("Card charged");
+            System.out.println("Card charged");
         }
     }
     record PayPal() {
         public void loginAndPay(){
-            println("Casting successful! Logging into PayPal gateway...");
+            System.out.println("Casting successful! Logging into PayPal gateway...");
         }
     }
+}
