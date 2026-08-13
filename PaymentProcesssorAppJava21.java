@@ -9,6 +9,8 @@ public class PaymentProcesssorAppJava21 {
 
         // 1. Create a specific payment object
         CreditCard cardPayment = new CreditCard();
+        
+        // PayPal cardPayment = new PayPal();
 
          // 2. Put it inside a generic "Object" box (this simulates receiving a generic payload)
          Object paymentPayload = cardPayment;
