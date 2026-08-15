@@ -6,7 +6,7 @@ public class MyRoulette {
     //We gonna use a RandomGenerator instead of Math.randm()
     // import java.util.random.RandomGenerator; // 1. Import the modern generator tool
     int casinoNum;
-    int g;
+    
     private double machineCashBalance; //non-static to keep it private
 
     
