@@ -64,15 +64,6 @@ void startGame(){
                 System.out.println("Wrong Guess A");
             }
           
-            if(chosenNumB == casinoNum ) {
-                System.out.println("A has chosen Number: " + chosenNumB);
-                System.out.println("Congrats User B, you have won R100");
-            }
-            else {
-                 System.out.println("A has chosen Number: " + chosenNumB);
-                System.out.println("Wrong Guess B");
-            }
-    }
     
 }
 
