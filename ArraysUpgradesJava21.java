@@ -9,15 +9,16 @@ public class ArraysUpgradesJava21 {
     }
         
 
-// List has contains() and size(), getFirst() and getLast();
+// List has contains() and size(), getFirst() and getLast(); removeFirst(); removeLast();
+
     public void printFirstAndLast21() {
-        IO.println(numbers.getFirst());
-        IO.println(numbers.getLast());
+        System.out.println(numbers.getFirst());
+        System.out.println(numbers.getLast());
         
         if (numbers.contains(3)){
-            IO.println("Congratulations");
+            System.out.println("Congratulations");
             }
-        IO.println(numbers.size());    
+        System.out.println(numbers.size());    
 
         }
 
