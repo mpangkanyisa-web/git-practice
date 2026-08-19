@@ -1,7 +1,9 @@
 public class StringBuilderAndString {
     public static void main(String[] args) {
-        StringBuilder name1 = new StringBuilder("Kanyisa");
+        StringBuilder name1 = new StringBuilder("Hello Kanyisa");
+        name1.replace(6, 13, "Willow");
         System.out.println(name1);
+        
 
         //or just:
         // StringBuilder name1 = new StringBuilder();
