@@ -8,3 +8,5 @@ public class NullSwitch {
 
     }
 }
+
+//type to expect is Serializable & Comparable ...and i think there's others if am not mistaken
