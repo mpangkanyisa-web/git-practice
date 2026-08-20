@@ -28,10 +28,10 @@ public class DateAndTime {
         Period p2 = Period.ofWeeks(52);
         System.out.println("Weeks: "+ p2);
 
-        Period p3 = Period.ofMonths(12);
+        Period p3 = Period.ofMonths(24);
         System.out.println("Month: "+ p3);
 
-        Period p4 = Period.ofYears(2);
+        Period p4 = Period.ofYears(1);
         System.out.println("Years: "+ p4);
 
 
