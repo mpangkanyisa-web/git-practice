@@ -8,6 +8,8 @@ public class Maps {
         }
         for(int n : names.values()){
             System.out.println(n);
+
+            System.out.println(names);
         }
     }
 }
