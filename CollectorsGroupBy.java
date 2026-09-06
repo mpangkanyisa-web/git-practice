@@ -16,7 +16,14 @@ public class CollectorsGroupBy {
 
         Map<String, List<Employee>> byDept = staff.stream().collect(Collectors.groupingBy(Employee::department));
 
-        System.out.println(byDept);
+         System.out.println (byDept);
+
+
+        // Printing the threads at work for parllelStream
+        // staff.parallelStream().forEach(stf ->
+        //     System.out.println(Thread.currentThread().getName() + " processed: " + stf)
+        // );
+        
 
     }
 }
