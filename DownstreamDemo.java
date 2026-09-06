@@ -2,6 +2,8 @@ import java.util.List;
 import java.util.Map;
 import java.util.stream.Collectors;
 
+record Employee(String name, String department, int salary) {}
+
 public class DownstreamDemo {
     public static void main(String[] args) {
         List<Employee> staff = List.of(
