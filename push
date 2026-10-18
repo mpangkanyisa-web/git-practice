@@ -1,0 +1,398 @@
+[33mcommit 51fd5bac5f7dcdbff74f976b51d33f3b9127c773[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Kanyisa <mpangkanyisa@gmail.com>
+Date:   Fri Oct 16 10:20:06 2026 +0200
+
+    myPath
+
+[33mcommit 39e73808258d1d34a35393c3fc9bb33f8197b0c5[m
+Author: Kanyisa <mpangkanyisa@gmail.com>
+Date:   Thu Oct 15 16:53:19 2026 +0200
+
+    synchronise
+
+[33mcommit aaafe1f81f2ce62770a3ffda919c0f68a2d5335a[m
+Author: Kanyisa <mpangkanyisa@gmail.com>
+Date:   Thu Oct 15 15:03:06 2026 +0200
+
+    no synchronise for constructors
+
+[33mcommit 295fdbca05c851d32fc5cb1fbd0ceb88dad79992[m
+Author: Kanyisa <mpangkanyisa@gmail.com>
+Date:   Mon Sep 21 06:35:50 2026 +0200
+
+    Localize
+
+[33mcommit ddc6cdced774fa20be5549cc7c8acc2d428b19a3[m
+Author: Kanyisa <mpangkanyisa@gmail.com>
+Date:   Mon Sep 21 06:35:29 2026 +0200
+
+    updates with nio.file
+
+[33mcommit e499fe5a0c6c5c14f37145d72933d748ca6005a0[m
+Author: Kanyisa <mpangkanyisa@gmail.com>
+Date:   Fri Sep 18 07:52:00 2026 +0200
+
+    Locale Practice
+
+[33mcommit 8709f0058bbb2c33cfab7bb53ad23ce325604d35[m
+Author: Kanyisa <mpangkanyisa@gmail.com>
+Date:   Tue Sep 15 09:55:15 2026 +0200
+
+    DownstreamDemo
+
+[33mcommit 48796cad6cda4c3af86cb28fcd6cfff2d0f89c50[m
+Author: Kanyisa <mpangkanyisa@gmail.com>
+Date:   Sun Sep 6 20:41:09 2026 +0200
+
+    collectorsgroupby
+
+[33mcommit 94a9cc7beb899d489abadcf3fad8d29bf84831b4[m
+Author: Kanyisa <mpangkanyisa@gmail.com>
+Date:   Sun Sep 6 20:40:14 2026 +0200
+
+    addedParallelSAtream
+
+[33mcommit 3ff93dcaf38de6c9277fa67fba9b7a785993df3d[m
+Author: Kanyisa <mpangkanyisa@gmail.com>
+Date:   Sun Sep 6 19:58:04 2026 +0200
+
+    DownstreamDemo
+
+[33mcommit 5378121ff4102cc42fc38df32cbd688be2cb9946[m
+Author: Kanyisa <mpangkanyisa@gmail.com>
+Date:   Sun Sep 6 19:41:48 2026 +0200
+
+    partitionBy
+
+[33mcommit d817585aa99130d36fe85671a3e001bb3ac2e8f6[m
+Author: Kanyisa <mpangkanyisa@gmail.com>
+Date:   Sun Sep 6 19:38:57 2026 +0200
+
+    PartitioningDemo
+
+[33mcommit ad34ca101a0374652bd5756781d4a8c2b4690e72[m
+Author: Kanyisa <mpangkanyisa@gmail.com>
+Date:   Sun Sep 6 19:36:18 2026 +0200
+
+    GroupbyCollletcors
+
+[33mcommit cd862390672639e0d8f81a846f601a7234256c71[m
+Author: Kanyisa <mpangkanyisa@gmail.com>
+Date:   Sun Sep 6 19:12:41 2026 +0200
+
+    collectReduction
+
+[33mcommit f75f9d8be039ae37a8bed2ce64dc5c37c322fa7b[m
+Author: Kanyisa <mpangkanyisa@gmail.com>
+Date:   Sun Sep 6 18:27:57 2026 +0200
+
+    reduce()
+
+[33mcommit 2f6ee0069106ea3ac331be8606219a0771a805e4[m
+Author: Kanyisa <mpangkanyisa@gmail.com>
+Date:   Sun Sep 6 18:11:55 2026 +0200
+
+    mapToInt
+
+[33mcommit 0e045fa13262fa6a561fb64222da43639405e99c[m
+Author: Kanyisa <mpangkanyisa@gmail.com>
+Date:   Tue Sep 1 10:44:26 2026 +0200
+
+    generics Fundaamentals challenge
+
+[33mcommit e5f6fe3283d25c2a57a0ea52c98a95be46c0bf89[m
+Author: Kanyisa <mpangkanyisa@gmail.com>
+Date:   Tue Sep 1 07:31:38 2026 +0200
+
+    doStuff() exammples..from interfaces
+
+[33mcommit c884630b38a1370587a5b474aefbe7ef4a0051fc[m
+Author: Kanyisa <mpangkanyisa@gmail.com>
+Date:   Mon Aug 31 08:04:06 2026 +0200
+
+    the constructor trick
+
+[33mcommit 79a73fe1ea7bcfdde767e70927f28db461e1428e[m
+Author: Kanyisa <mpangkanyisa@gmail.com>
+Date:   Sun Aug 30 14:30:07 2026 +0200
+
+    subclass constructors implementation
+
+[33mcommit 015f7d7dae153f172c43b5813e3a229884d69799[m
+Author: Kanyisa <mpangkanyisa@gmail.com>
+Date:   Sat Aug 29 10:17:47 2026 +0200
+
+    isValid Check
+
+[33mcommit 6aa4f27fa8b70806493f569a659edb98febff721[m
+Author: Kanyisa <mpangkanyisa@gmail.com>
+Date:   Sat Aug 29 09:32:35 2026 +0200
+
+    Enums
+
+[33mcommit dc558ad093bcf5f2f902ab3d98a62d9c98df88f5[m
+Author: Kanyisa <mpangkanyisa@gmail.com>
+Date:   Sat Aug 29 09:26:33 2026 +0200
+
+    Linkediin Tests
+
+[33mcommit b59309a32f29f17f59da4b8d188baf96920ae40e[m
+Author: Kanyisa <mpangkanyisa@gmail.com>
+Date:   Fri Aug 21 14:11:07 2026 +0200
+
+    maps keyset and value
+
+[33mcommit 3e238cf77988a082cb9fbbe5a82eb590a3bd0786[m
+Author: Kanyisa <mpangkanyisa@gmail.com>
+Date:   Thu Aug 20 15:31:48 2026 +0200
+
+    normalized in Date and time
+
+[33mcommit b089c4fb89713b32d74ca336402262c15a8788ac[m
+Author: Kanyisa <mpangkanyisa@gmail.com>
+Date:   Thu Aug 20 15:05:21 2026 +0200
+
+    DateTime - peeriod n duration
+
+[33mcommit 94380f1c4a0381f69dd9aa123df5fa2a55cf3f93[m
+Author: Kanyisa <mpangkanyisa@gmail.com>
+Date:   Thu Aug 20 14:41:01 2026 +0200
+
+    Datetime
+
+[33mcommit 6307a9f147f02a689a9145709872a36adf875149[m
+Author: Kanyisa <mpangkanyisa@gmail.com>
+Date:   Thu Aug 20 13:05:02 2026 +0200
+
+    the concat() method
+
+[33mcommit d086cf068b49d668d31b7d94f32e9ecb41241b89[m
+Author: Kanyisa <mpangkanyisa@gmail.com>
+Date:   Thu Aug 20 09:50:05 2026 +0200
+
+    IncrementAndPrinting rules in loops
+
+[33mcommit 37b87fdcad892ad1d874fb1faf8cdd705c154a64[m
+Author: Kanyisa <mpangkanyisa@gmail.com>
+Date:   Wed Aug 19 19:56:41 2026 +0200
+
+    TextBox in detaills
+
+[33mcommit 510823a80adeff79f4d1a753bc8c0ddc8661a2e3[m
+Author: Kanyisa <mpangkanyisa@gmail.com>
+Date:   Wed Aug 19 19:40:38 2026 +0200
+
+    Textbox testing
+
+[33mcommit 003d1cdd6f677064e1489ca2132d6f792c8140ae[m
+Author: Kanyisa <mpangkanyisa@gmail.com>
+Date:   Wed Aug 19 12:08:31 2026 +0200
+
+    IncrementExercise Test
+
+[33mcommit 7d34ea79a2db3b245c7d97b6e560f55986d745f1[m
+Author: Kanyisa <mpangkanyisa@gmail.com>
+Date:   Wed Aug 19 10:54:58 2026 +0200
+
+    Equality check
+
+[33mcommit 53b278bc2976bcf35083eac0253fdf1f97ab7a3a[m
+Author: Kanyisa <mpangkanyisa@gmail.com>
+Date:   Wed Aug 19 10:08:26 2026 +0200
+
+    PredicateInterface
+
+[33mcommit d7ada8abeb1a177a584f79c374cb32dcb6141f03[m
+Author: Kanyisa <mpangkanyisa@gmail.com>
+Date:   Wed Aug 19 07:52:42 2026 +0200
+
+    StringBulder replace() and other methods addition
+
+[33mcommit 9dd4be1a40567452b359c77fcd8db038eb71a385[m
+Author: Kanyisa <mpangkanyisa@gmail.com>
+Date:   Wed Aug 19 07:42:48 2026 +0200
+
+    StringBuilderExample
+
+[33mcommit b4b2afe5f7ff176b4396b307fbbc4c3447a49069[m
+Author: Kanyisa <mpangkanyisa@gmail.com>
+Date:   Wed Aug 19 07:30:43 2026 +0200
+
+    NullSwitch(supertype or matching interfaces)
+
+[33mcommit a9b878d38a3de8212a76240653870623f09c9e84[m
+Author: Kanyisa <mpangkanyisa@gmail.com>
+Date:   Wed Aug 19 07:26:39 2026 +0200
+
+    RemainderOperator
+
+[33mcommit 04df7322e871e00945846de5da31c2b5359ab911[m
+Author: Kanyisa <mpangkanyisa@gmail.com>
+Date:   Mon Aug 17 20:40:52 2026 +0200
+
+    ZeroExceptionCheck
+
+[33mcommit a99a68f237d39754f869ddfc24c82e72d9edbde5[m
+Author: Kanyisa <mpangkanyisa@gmail.com>
+Date:   Sat Aug 15 02:09:36 2026 +0200
+
+    Before combining functions in one method
+
+[33mcommit 7970e089e61c14e3711887bb1a24deacc4a5b2c7[m
+Author: Kanyisa <mpangkanyisa@gmail.com>
+Date:   Sat Aug 15 02:06:02 2026 +0200
+
+    d removed
+
+[33mcommit d6cc636698c40937c34ecb86a7a97cef137bdf15[m
+Author: Kanyisa <mpangkanyisa@gmail.com>
+Date:   Sat Aug 15 00:02:20 2026 +0200
+
+    g added
+
+[33mcommit 41f43f3ab4d45ef77f7d3e67a8ae1d8e1dca8088[m
+Author: Kanyisa <mpangkanyisa@gmail.com>
+Date:   Fri Aug 14 21:27:44 2026 +0200
+
+    RandomGenerator
+
+[33mcommit e84abab7f1e6fb0942de9c890daddc4bc1d8e54a[m
+Author: Kanyisa <mpangkanyisa@gmail.com>
+Date:   Fri Aug 14 10:05:48 2026 +0200
+
+     List.of
+
+[33mcommit f6a21d9315077b1faf86916d37ade1ff7f265713[m
+Author: Kanyisa <mpangkanyisa@gmail.com>
+Date:   Thu Aug 13 15:02:49 2026 +0200
+
+    IO.Println
+
+[33mcommit 091532bf5306cde196f0aa1582f459de36997d1f[m
+Author: Kanyisa <mpangkanyisa@gmail.com>
+Date:   Thu Aug 13 14:59:41 2026 +0200
+
+    ArraysAndListof
+
+[33mcommit 4ab9b90afc626ab4b3b64c8108f23cd1f9e4dcbf[m
+Author: Kanyisa <mpangkanyisa@gmail.com>
+Date:   Thu Aug 13 09:42:50 2026 +0200
+
+    J2121
+
+[33mcommit 7a655ab930f84b7ca81ce9f5e070662c6eb5206e[m
+Author: Kanyisa <mpangkanyisa@gmail.com>
+Date:   Thu Aug 13 08:35:56 2026 +0200
+
+    J21
+
+[33mcommit adc6d70c22f89471c22d53d675cb867fdc912d99[m
+Author: Kanyisa <mpangkanyisa@gmail.com>
+Date:   Thu Aug 13 08:14:25 2026 +0200
+
+    switch
+
+[33mcommit 45bbd428bdfcb9e5f5ac2af4ac3838748ba997b3[m
+Author: Kanyisa <mpangkanyisa@gmail.com>
+Date:   Thu Aug 13 06:25:33 2026 +0200
+
+    Lambda and isBlank()
+
+[33mcommit 69b41676f7a3e65084e52f57726ca596d2fa51f3[m
+Merge: 0bfed36 9a1f19b
+Author: Kanyisa <mpangkanyisa@gmail.com>
+Date:   Wed Aug 5 14:23:30 2026 +0200
+
+    Merge pull request #4 from mpangkanyisa-web/feature/issue-4
+    
+    #2 fix in hello.txt file
+
+[33mcommit 9a1f19b50fef9cc5d2b137aae84f8d7372674897[m[33m ([m[1;32mfeature/issue-4[m[33m)[m
+Author: Kanyisa <mpangkanyisa@gmail.com>
+Date:   Wed Aug 5 14:22:10 2026 +0200
+
+    #2 fix in hello.txt file
+
+[33mcommit 0bfed36d31f527bf9815c6b92fc3bb1416c28879[m
+Merge: afbd509 386f816
+Author: Kanyisa <mpangkanyisa@gmail.com>
+Date:   Wed Aug 5 09:49:44 2026 +0200
+
+    Merge pull request #3 from mpangkanyisa-web/feature/issue-4
+    
+    issues fix
+
+[33mcommit 386f81602ed4e1c90239001a0e7ac596df8be296[m
+Author: Kanyisa <mpangkanyisa@gmail.com>
+Date:   Wed Aug 5 09:27:44 2026 +0200
+
+    issues fix
+
+[33mcommit afbd509b6bc2d7ebb3e27461958adc1d13eb0d48[m
+Merge: 6e7e67e 6bdc7e0
+Author: Kanyisa <mpangkanyisa@gmail.com>
+Date:   Wed Aug 5 08:42:04 2026 +0200
+
+    Merge pull request #1 from mpangkanyisa-web/VS-Code-Branch
+    
+    Pull Request test line
+
+[33mcommit 6bdc7e0cbb699741cebfc0840c2662748ea3c4a1[m
+Author: Kanyisa <mpangkanyisa@gmail.com>
+Date:   Wed Aug 5 08:38:01 2026 +0200
+
+    Pull Request test line
+
+[33mcommit 6e7e67ea2a2af7ba4789f3c6da65723450880cb7[m
+Author: Kanyisa <mpangkanyisa@gmail.com>
+Date:   Tue Aug 4 20:57:21 2026 +0200
+
+    Add new lines to hello.txt
+
+[33mcommit 836c06d3026a291dceeaf2911d5667c1434f8f5b[m
+Author: Kanyisa <mpangkanyisa@gmail.com>
+Date:   Tue Aug 4 20:52:12 2026 +0200
+
+    Edit hello.txt visually using VS Code
+
+[33mcommit b7501010646126973132e25f2c65da78c5d661dc[m
+Author: Kanyisa <mpangkanyisa@gmail.com>
+Date:   Tue Aug 4 11:07:45 2026 +0200
+
+    added fresh gitignore
+
+[33mcommit c9e6c6f28e9eb1df908c1352946b9a2ca09629bc[m
+Author: Kanyisa <mpangkanyisa@gmail.com>
+Date:   Tue Aug 4 10:58:58 2026 +0200
+
+    .gitignore commit
+
+[33mcommit 5d9a6e9670bc4d8a54de2fb8c04f5e8fec137c20[m
+Author: Kanyisa <mpangkanyisa@gmail.com>
+Date:   Tue Aug 4 10:48:35 2026 +0200
+
+    Local update on hello.txt
+
+[33mcommit aa3c54bca44055bb1de074427d7cc62c2fb10762[m
+Author: Kanyisa <mpangkanyisa@gmail.com>
+Date:   Tue Aug 4 10:36:24 2026 +0200
+
+    Add a new line to hello.txt
+
+[33mcommit 270faebdabb6de17ab9a38a36770e62c0a45923f[m
+Author: Kanyisa <mpangkanyisa@gmail.com>
+Date:   Tue Aug 4 07:06:19 2026 +0200
+
+    Adding experimentral feature to repository
+
+[33mcommit e9a7b5ea6d9bff79c9a4004668090a9249850790[m
+Author: Kanyisa <mpangkanyisa@gmail.com>
+Date:   Mon Aug 3 22:40:43 2026 +0200
+
+    My second commit
+
+[33mcommit 334291989418bb9f6e6600f9a23902a2f6f5dbf1[m
+Author: Kanyisa <mpangkanyisa@gmail.com>
+Date:   Mon Aug 3 22:33:11 2026 +0200
+
+    My very first commit

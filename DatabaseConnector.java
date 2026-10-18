@@ -11,5 +11,6 @@ public class DatabaseConnector {
     public static Connection getConnection() throws SQLException {
         // Obtains and returns a live database connection session
         return DriverManager.getConnection(URL, USER, PASSWORD);
-    }
+
+     }
 }

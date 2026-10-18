@@ -5,7 +5,7 @@ import java.util.stream.Collectors;
 record DownstreamEmployee(String name, String department, int salary) {}
 
 public class DownstreamDemo {
-    public static void main(String[] args) {
+        
         List<DownstreamEmployee> staff = List.of(
             new DownstreamEmployee("Alice", "HR", 50000),
             new DownstreamEmployee("Bob", "IT", 80000),
